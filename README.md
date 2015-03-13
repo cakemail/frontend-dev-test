@@ -4,7 +4,7 @@ Hi !
 
 Let me propose a little challenge.
 
-You must create an object oriented class that allows a user to insert an emoji icon into a content-editable _div_, with the help of a tooltip, at the caret position.
+You must create an object oriented system that allows a user to insert an emoji icon into a content-editable _div_, with the help of a tooltip, at the caret position.
 
 Here's what it could look like:
 
@@ -15,14 +15,14 @@ Here's what it could look like:
 First, here's what you are given:
   - A _div_ with editable content
   - jQuery
-  - 
+
 Here's what you can use:
-  - Pretty much any library/tool you want. Things like Backbone.js or Bootstrap can be used, BUT you cannot use jQuery plugins. We let you use jQuery itself, and that should be enough.
+  - Pretty much any library/tool you want, BUT you cannot use jQuery plugins. We let you use jQuery itself, and that should be enough.
 
 And here's what we want:
   - A tooltip object
     - The tooltip must accept a X number of components (think of components as tools that can can be listed in the tooltip)
   - An object for each emoji (think of them as components)
   - All object oriented
-  - 
+  
 Remember, we want to see what you are capable of. The use of other resources should be used only to help your code, not do it for you !
