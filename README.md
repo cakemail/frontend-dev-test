@@ -8,16 +8,15 @@ You must create an object oriented system that allows a user to insert an emoji 
 
 Here's what it could look like:
 
-1. Click somewhere inside the content editable _div_ ![Step 1](http://i.imgur.com/cL4IAlZ.png)
-2. A tooltip should appear, presenting the list of available emojis ![Step 2](http://i.imgur.com/FYGqlD9.png)
-3. Clicking on an emoji should insert it at the caret. ![Step 3](http://i.imgur.com/0y5X6gp.png)
+1. On click, inside the content editable _div_, a tooltip should appear, presenting the list of available emojis ![Step 2](http://i.imgur.com/FYGqlD9.png)
+2. Clicking on an emoji should insert it at the caret. ![Step 3](http://i.imgur.com/0y5X6gp.png)
 
 First, here's what you are given:
   - A _div_ with editable content
   - jQuery
 
-Here's what you can use:
-  - Pretty much any library/tool you want, BUT you cannot use jQuery plugins. We let you use jQuery itself, and that should be enough.
+Here's what you can't use:
+  - You cannot use jQuery plugins. We let you use jQuery itself, and that should be enough.
 
 And here's what we want:
   - A tooltip object
